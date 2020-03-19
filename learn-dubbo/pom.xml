@@ -15,6 +15,12 @@
         <module>dubbo-provide-xml</module>
         <module>dubbo-consumer-xml</module>
         <module>common</module>
+        <module>dubbo-provide-zk-xml</module>
+        <module>dubbo-consumer-zk-xml</module>
+        <module>dubbo-provide-zk-api</module>
+        <module>dubbo-consumer-zk-api</module>
+        <module>dubbo-consumer-zk-anno</module>
+        <module>dubbo-provide-zk-anno</module>
     </modules>
     <dependencies>
         <dependency>

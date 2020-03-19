@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="untitled" />
-        <module name="dubbo-consumer-xml" />
-        <module name="learn-zk" />
-        <module name="dubbo-provide-xml" />
         <module name="common" />
+        <module name="dubbo-consumer-xml" />
+        <module name="dubbo-provide-xml" />
+        <module name="dubboconsumerzkanno" />
+        <module name="dubboconsumerzkapi" />
+        <module name="dubboconsumerzkxml" />
+        <module name="dubboprovidezkanno" />
+        <module name="dubboprovidezkapi" />
+        <module name="dubboprovidezkxml" />
+        <module name="learn-zk" />
+        <module name="untitled" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
