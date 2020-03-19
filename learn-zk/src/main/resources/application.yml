@@ -1,0 +1,3 @@
+zookeeper:
+  address: 47.105.209.57:2181
+  timeout: 4000
