@@ -11,6 +11,7 @@
     <modules>
         <module>learn-dubbo</module>
         <module>learn-zk</module>
+        <module>learn-hasor</module>
     </modules>
 
 
